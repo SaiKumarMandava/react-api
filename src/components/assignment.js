@@ -44,7 +44,7 @@ const filteredUsers = data.filter((user) =>
 
   return (
     <div className="App">
-      <h1>Fetching the data from the below API end point</h1>
+      <h1>Taking the data from the below API end point</h1>
       <p>
         Api end point{" "}
         <a href="https://jsonplaceholder.typicode.com/users" target="blank">
